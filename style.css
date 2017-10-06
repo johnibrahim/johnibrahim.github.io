@@ -1,0 +1,92 @@
+@font-face{
+    font-family: John;
+    src: url(fonts/fontone.ttf);
+}
+body{
+    background-color: #7790ba;
+    background-image: url(images/backgroundone.png);
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-attachment: fixed;
+}
+h1{
+    font-family: "John", sans-serif;
+}
+p{
+    color: white
+}
+h2{
+    color: white;
+    font-family: "arial";
+    font-size: 20px;
+}
+body{
+    color: white;
+}
+#nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #11489b;
+} 
+#nav li {
+    float: left;
+}
+
+#nav li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #5e9bff;
+    color: black;
+}
+#nav li a:active {
+    background-color: #3a83fc;
+}
+#bts{
+    border: solid transparent 2px;
+    margin: 40px;
+    text-align: center;
+}
+table {
+    margin: auto;
+    font-size: 20px;
+}
+#link {font-size: 18px;
+    color: white;
+}
+#class {font-size: 30px;
+text-align: center;
+}
+#list {text-align: center;
+width: 100px;
+margin: auto;
+}
+#info {text-align: center;
+}
+#linkone {font-size: 15px;
+    color: white;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+h6{text-align: center;
+}
+#font {font-family: "arial";
+padding-left: 60px;
+}
+h3{font-size: 55px;
+font-family: "arial";
+}
+#resume {font-size: 35px;
+}
+#hob {text-align: center;
+font-size: 35px;
+}
+#align {text-align: center;
+}
